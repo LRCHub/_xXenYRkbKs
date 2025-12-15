@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Guiano - 死んでしまったのだろうか (feat.flower)",
+  "base_artist": "Guiano",
+  "createdAt": "2025-12-15T13:28:51.625196Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Guiano - 忘れたいことばっかだ (feat.flower)",
+      "artist": "Guiano",
+      "has_synced": true,
+      "path": "select/01_Guiano_-_忘れたいことばっかだ_(feat.flower)_Guiano.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Guiano - シャナ (feat.IA)",
+      "artist": "Guiano",
+      "has_synced": false,
+      "path": "select/02_Guiano_-_シャナ_(feat.IA)_Guiano.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "エリカ (Guiano Remix)",
+      "artist": "花譜",
+      "has_synced": false,
+      "path": "select/03_エリカ_(Guiano_Remix)_花譜.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夜が降り止む前に(Guiano Remix)",
+      "artist": "花譜",
+      "has_synced": false,
+      "path": "select/04_夜が降り止む前に(Guiano_Remix)_花譜.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "エリカ (Guiano Remix)",
+      "artist": "Kaf",
+      "has_synced": false,
+      "path": "select/05_エリカ_(Guiano_Remix)_Kaf.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Guiano - スーパーヒーロー (feat.IA)",
+      "artist": "Guiano",
+      "has_synced": true,
+      "path": "select/06_Guiano_-_スーパーヒーロー_(feat.IA)_Guiano.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "空っぽなら、踊ろうぜ / Guiano x 理芽",
+      "artist": "RIM",
+      "has_synced": true,
+      "path": "select/07_空っぽなら、踊ろうぜ___Guiano_x_理芽_RIM.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "いつもシミュレーション  / Guiano x 理芽",
+      "artist": "RIM",
+      "has_synced": true,
+      "path": "select/08_いつもシミュレーション___Guiano_x_理芽_RIM.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "言っちゃいけないことばっか浮かぶよな / Guiano x 理芽",
+      "artist": "RIM",
+      "has_synced": false,
+      "path": "select/09_言っちゃいけないことばっか浮かぶよな___Guiano_x_理芽_RIM.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "音楽なんてわからない (Guiano Remix)",
+      "artist": "Iori Kanzaki",
+      "has_synced": true,
+      "path": "select/10_音楽なんてわからない_(Guiano_Remix)_Iori_Kanzaki.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "夜が降りやむ前に (Guiano Remix)",
+      "artist": "KAF",
+      "has_synced": false,
+      "path": "select/11_夜が降りやむ前に_(Guiano_Remix)_KAF.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "音楽なんてわからない (Guiano Remix)",
+      "artist": "カンザキイオリ",
+      "has_synced": true,
+      "path": "select/12_音楽なんてわからない_(Guiano_Remix)_カンザキイオリ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "夜が降り止む前に(Guiano Remix)",
+      "artist": "KAF",
+      "has_synced": false,
+      "path": "select/13_夜が降り止む前に(Guiano_Remix)_KAF.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "死んでしまったのだろうか",
+      "artist": "Guiano",
+      "has_synced": false,
+      "path": "select/pl_01_死んでしまったのだろうか_Guiano.txt"
+    }
+  ]
+}
